@@ -38,5 +38,5 @@ This repository hosts the development project for the Process Improvement Projec
 
 ## Contact
 For any inquiries or further information, please contact:
-- **Name:** Ryan Stupart
-- **Email:** ryanstupart@gmail.com
+- **Name:** Shubham Gupta
+- **Email:** aaronshubhamgupta@gmail.com
